@@ -1,6 +1,12 @@
 <h1 align="left">Hi 👋, I'm Varun D</h1>
-<h3 align="left">Backend Developer</h3>
-<p align="left">As a backend developer, I have strong expertise in building robust and scalable applications using Node.js, Express.js, MongoDB, and Java. I'm proficient in designing RESTful APIs and integrating modern backend technologies to deliver high-performance server-side solutions. My passion for innovation drives me to continuously learn and adapt to new technologies, frameworks, and tools—ensuring I always deliver efficient and reliable backend systems.</p>
+<h3 align="left">🌟 Full Stack MERN Developer</h3>
+<p align="left">
+I’m a passionate Full Stack MERN Developer who loves bringing ideas to life through clean, scalable, and high-performance web applications.  
+With expertise in <b>MongoDB, Express.js, React.js, and Node.js</b>, I craft seamless front-end experiences backed by powerful server-side logic.  
+Whether it’s building RESTful APIs, designing interactive UIs, or optimizing databases, I thrive on turning complex problems into simple, elegant solutions.  
+Always curious and constantly learning, I enjoy pushing boundaries with new tools, frameworks, and technologies to create digital experiences that truly stand out. 🚀
+</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
